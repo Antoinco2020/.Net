@@ -1,0 +1,15 @@
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.App_GlobalResources.Resource.resources
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.csproj.GenerateResource.cache
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\AIncoronato\Desktop\Progetti\Personali\.Net\soap-net8\Domain\obj\Debug\net8.0\ref\Domain.dll
