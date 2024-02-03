@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Restapp-net8.props" />
-</Project>
