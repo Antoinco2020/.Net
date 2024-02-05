@@ -95,7 +95,7 @@ namespace Restapp_net8.Controllers
         /// <response code="200">return author</response>
         /// <response code="400">An error occurred</response>
         [HttpGet]
-        [Route("getByName")]
+        [Route("getById")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public IActionResult GetAuthorById(long id)

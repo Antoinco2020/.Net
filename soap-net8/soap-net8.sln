@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soap-net8", "soap-net8\soap-net8.csproj", "{5DC28A3E-EBAB-43F8-ACEA-9AF85DB5FE0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soap-net8", "soap-net8\soap-net8.csproj", "{5DC28A3E-EBAB-43F8-ACEA-9AF85DB5FE0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{EC9CB016-1BF4-4144-9D0C-5C1A278DA9A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{EC9CB016-1BF4-4144-9D0C-5C1A278DA9A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{5227F217-D9E7-4566-8EF5-593F9C68947F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{5227F217-D9E7-4566-8EF5-593F9C68947F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{3F8C6738-2E50-4D74-8EB1-055B21402A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{3F8C6738-2E50-4D74-8EB1-055B21402A34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{EA0F0F0F-6A77-475A-B911-28C303372E78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3F8C6738-2E50-4D74-8EB1-055B21402A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F8C6738-2E50-4D74-8EB1-055B21402A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F8C6738-2E50-4D74-8EB1-055B21402A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0F0F0F-6A77-475A-B911-28C303372E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0F0F0F-6A77-475A-B911-28C303372E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0F0F0F-6A77-475A-B911-28C303372E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0F0F0F-6A77-475A-B911-28C303372E78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
