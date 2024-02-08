@@ -7,11 +7,11 @@ namespace Service
 {
     public class AuthorService : IAuthorService
     {
-        private readonly IAuthorRepository authorRepository;
+        private readonly IAuthorRepository _authorRepository;
 
         public AuthorService(IAuthorRepository authorRepository)
         {
-            this.authorRepository = authorRepository;
+            _authorRepository = authorRepository;
         }
 
         public List<Author> GetAllAuthors(LogManager logManager)
@@ -19,7 +19,7 @@ namespace Service
             List<Author> authors = null;
             try
             {
-                authors = authorRepository.GetAllAuthors(logManager);
+                authors = _authorRepository.GetAllAuthors(logManager);
             }
             catch (Exception e)
             {
@@ -34,7 +34,7 @@ namespace Service
             List<Author> authors = null;
             try
             {
-                authors = authorRepository.GetAuthorByName(logManager, name);
+                authors = _authorRepository.GetAuthorByName(logManager, name);
             }
             catch (Exception e)
             {
@@ -49,7 +49,7 @@ namespace Service
             Author author = null;
             try
             {
-                author = authorRepository.GetAuthorById(logManager, id);
+                author = _authorRepository.GetAuthorById(logManager, id);
             }
             catch (Exception e)
             {
@@ -63,7 +63,7 @@ namespace Service
         {
             try
             {
-                author = authorRepository.InsertAuthor(logManager, author);
+                author = _authorRepository.InsertAuthor(logManager, author);
             }
             catch (Exception e)
             {

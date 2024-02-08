@@ -8,10 +8,10 @@ namespace soap_net8
 {
     public class Service : IService
     {
-        private readonly IAuthorService authorService;
+        private readonly IAuthorService _authorService;
         public Service(IAuthorService authorService)
         {
-            this.authorService = authorService;
+            _authorService = authorService;
             ResourceExt.resFileManager = ResourceFileManager.Instance;
             ResourceExt.resFileManager.SetResources();
             CryptExt.rijndael = new Rijndael();
@@ -26,7 +26,7 @@ namespace soap_net8
             try
             {
                 logManager.WriteInformation($"Start method GetAllAuthors");
-                authors = authorService.GetAllAuthors(logManager);
+                authors = _authorService.GetAllAuthors(logManager);
             }
             catch (Exception e)
             {
@@ -45,7 +45,7 @@ namespace soap_net8
             try
             {
                 logManager.WriteInformation($"Start method GetAuthorById");
-                author = authorService.GetAuthorById(logManager, id);
+                author = _authorService.GetAuthorById(logManager, id);
             }
             catch (Exception e)
             {
@@ -64,7 +64,7 @@ namespace soap_net8
             try
             {
                 logManager.WriteInformation($"Start method GetAuthorByName");
-                authors = authorService.GetAuthorByName(logManager, name);
+                authors = _authorService.GetAuthorByName(logManager, name);
             }
             catch (Exception e)
             {
@@ -82,7 +82,7 @@ namespace soap_net8
             try
             {
                 logManager.WriteInformation($"Start method InsertAuthor");
-                author = authorService.InsertAuthor(logManager, author);
+                author = _authorService.InsertAuthor(logManager, author);
             }
             catch (Exception e)
             {

@@ -1,56 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Jx/os0/FW/u7b7PsEG/uYoNWkAlCcDZxjRynlx1fBfQiNa5qwK88OfAO/+hWMZL7a3xnXTB40PDRruv/+TE/g==",
+  "dgSpecHash": "jjst1kNsyYzQbnCBMVsI9h8xaZ6CfvRZBpycbifItr/dbtLwcz6a64GjYO6xoofJ0MfM0v0Zsda6nfhnMO6djQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\AIncoronato\\Desktop\\Progetti\\Personali\\.Net\\soap-net8\\soap-net8\\soap-net8.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\oracle.manageddataaccess\\21.13.0\\oracle.manageddataaccess.21.13.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\serilog.sinks.console\\5.0.1\\serilog.sinks.console.5.0.1.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\soapcore\\1.1.0.41\\soapcore.1.1.0.41.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.private.servicemodel\\4.8.1\\system.private.servicemodel.4.8.1.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.reflection.dispatchproxy\\4.7.1\\system.reflection.dispatchproxy.4.7.1.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.security.cryptography.xml\\6.0.1\\system.security.cryptography.xml.6.0.1.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.servicemodel.http\\4.8.1\\system.servicemodel.http.4.8.1.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.servicemodel.primitives\\8.0.0\\system.servicemodel.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\AIncoronato\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
-  ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Oracle.ManagedDataAccess 21.13.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net8.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Oracle.ManagedDataAccess",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [],
+  "logs": []
 }
